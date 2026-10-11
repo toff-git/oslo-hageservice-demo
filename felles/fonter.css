@@ -1,0 +1,6 @@
+/* Brygada 1918 og Alegreya Sans (SIL OFL), lastet lokalt så ingen data går til Google. */
+@font-face { font-family: 'Brygada 1918'; font-style: normal; font-weight: 400 700; font-display: swap; src: url(fonter/brygada-1918-normal-400-700.woff2) format('woff2'); }
+@font-face { font-family: 'Brygada 1918'; font-style: italic; font-weight: 400 700; font-display: swap; src: url(fonter/brygada-1918-italic-400-700.woff2) format('woff2'); }
+@font-face { font-family: 'Alegreya Sans'; font-style: normal; font-weight: 400; font-display: swap; src: url(fonter/alegreya-sans-normal-400.woff2) format('woff2'); }
+@font-face { font-family: 'Alegreya Sans'; font-style: normal; font-weight: 500; font-display: swap; src: url(fonter/alegreya-sans-normal-500.woff2) format('woff2'); }
+@font-face { font-family: 'Alegreya Sans'; font-style: normal; font-weight: 700; font-display: swap; src: url(fonter/alegreya-sans-normal-700.woff2) format('woff2'); }
